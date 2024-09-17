@@ -1,0 +1,43 @@
+body {
+    
+  
+  }
+
+#setlist {
+    background-image: url("bg1.jpg");
+    border-style: solid;
+    width: 500px;
+    position: relative;
+    top: 10%;
+    left: 10%;
+    height: 685px;
+}
+
+p {
+    margin: 50px;
+}
+
+li {
+    position: relative;
+    top: 40px;   
+    font-family: Verdana, Helvetica, sans-serif;
+    list-style-type: none;
+    font-size: 28px;
+    text-align: center;
+}
+
+img {
+    position: relative;
+    max-width: 200px;
+    max-height: 130px;
+    bottom: 10px;
+    left: 10px;
+}
+
+h1 {
+    font-size: 10px;
+    font-family: Verdana, Helvetica, sans-serif;
+    position: relative;
+    left: 10%;
+    top: 20px;
+}
